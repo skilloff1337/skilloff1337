@@ -1,4 +1,4 @@
-## Hi everyone! My name is Vladislav, I'm 22 and I love typing code and learing english. Few words about myself, Software Engineer, basically Unity / ASP.NET / .Net core/framework.
+## Hi everyone! My name is Vladislav, I'm 22 and I love typing code and learning english. Few words about myself, Software Engineer, basically Unity / ASP.NET / .Net core/framework.
 
 My site - [skilloff.xyz](skilloff.xyz)
 
